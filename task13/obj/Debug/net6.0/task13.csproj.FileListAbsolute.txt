@@ -1,0 +1,15 @@
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2-noytbook\C-dz2\task13\bin\Debug\net6.0\task13.exe
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2-noytbook\C-dz2\task13\bin\Debug\net6.0\task13.deps.json
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2-noytbook\C-dz2\task13\bin\Debug\net6.0\task13.runtimeconfig.json
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2-noytbook\C-dz2\task13\bin\Debug\net6.0\task13.dll
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2-noytbook\C-dz2\task13\bin\Debug\net6.0\task13.pdb
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2-noytbook\C-dz2\task13\obj\Debug\net6.0\task13.csproj.AssemblyReference.cache
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2-noytbook\C-dz2\task13\obj\Debug\net6.0\task13.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2-noytbook\C-dz2\task13\obj\Debug\net6.0\task13.AssemblyInfoInputs.cache
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2-noytbook\C-dz2\task13\obj\Debug\net6.0\task13.AssemblyInfo.cs
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2-noytbook\C-dz2\task13\obj\Debug\net6.0\task13.csproj.CoreCompileInputs.cache
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2-noytbook\C-dz2\task13\obj\Debug\net6.0\task13.dll
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2-noytbook\C-dz2\task13\obj\Debug\net6.0\refint\task13.dll
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2-noytbook\C-dz2\task13\obj\Debug\net6.0\task13.pdb
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2-noytbook\C-dz2\task13\obj\Debug\net6.0\task13.genruntimeconfig.cache
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2-noytbook\C-dz2\task13\obj\Debug\net6.0\ref\task13.dll
