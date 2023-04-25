@@ -5,7 +5,7 @@
 // 456 -> 5
 // 782 -> 8
 // 918 -> 1
-Console.WriteLine("Введите трёхзначное число");
+Console.Write("Введите трёхзначное число: ");
 int a=int.Parse(Console.ReadLine()!);
 int chislo=Prow3znaka(a);
 
@@ -28,4 +28,4 @@ Console.Write("Вторая цифра этого числа ");
 Console.Write((chislo - chislo%10 - (chislo/100)*100)/10);
 }
 else 
-Console.WriteLine("Это не трёхзначное число: ");
+Console.WriteLine("Это не трёхзначное число");

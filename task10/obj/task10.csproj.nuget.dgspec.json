@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "O:\\Для OvodBox\\Учёба прогр\\4 Знаком с язык прогр (семинары)\\Урок 2. Базовые алгоритмы\\C-dz2\\task10\\task10.csproj": {}
+    "Z:\\Для OvodBox\\Учёба прогр\\4 Знаком с язык прогр (семинары)\\Урок 2. Базовые алгоритмы\\C-dz2-noytbook\\C-dz2\\task10\\task10.csproj": {}
   },
   "projects": {
-    "O:\\Для OvodBox\\Учёба прогр\\4 Знаком с язык прогр (семинары)\\Урок 2. Базовые алгоритмы\\C-dz2\\task10\\task10.csproj": {
+    "Z:\\Для OvodBox\\Учёба прогр\\4 Знаком с язык прогр (семинары)\\Урок 2. Базовые алгоритмы\\C-dz2-noytbook\\C-dz2\\task10\\task10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "O:\\Для OvodBox\\Учёба прогр\\4 Знаком с язык прогр (семинары)\\Урок 2. Базовые алгоритмы\\C-dz2\\task10\\task10.csproj",
+        "projectUniqueName": "Z:\\Для OvodBox\\Учёба прогр\\4 Знаком с язык прогр (семинары)\\Урок 2. Базовые алгоритмы\\C-dz2-noytbook\\C-dz2\\task10\\task10.csproj",
         "projectName": "task10",
-        "projectPath": "O:\\Для OvodBox\\Учёба прогр\\4 Знаком с язык прогр (семинары)\\Урок 2. Базовые алгоритмы\\C-dz2\\task10\\task10.csproj",
-        "packagesPath": "C:\\Users\\Ovod2013\\.nuget\\packages\\",
-        "outputPath": "O:\\Для OvodBox\\Учёба прогр\\4 Знаком с язык прогр (семинары)\\Урок 2. Базовые алгоритмы\\C-dz2\\task10\\obj\\",
+        "projectPath": "Z:\\Для OvodBox\\Учёба прогр\\4 Знаком с язык прогр (семинары)\\Урок 2. Базовые алгоритмы\\C-dz2-noytbook\\C-dz2\\task10\\task10.csproj",
+        "packagesPath": "C:\\Users\\Ovod\\.nuget\\packages\\",
+        "outputPath": "Z:\\Для OvodBox\\Учёба прогр\\4 Знаком с язык прогр (семинары)\\Урок 2. Базовые алгоритмы\\C-dz2-noytbook\\C-dz2\\task10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ovod2013\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ovod\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
