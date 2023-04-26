@@ -1,0 +1,15 @@
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2\C-dz2\task15\obj\Debug\net6.0\task15.csproj.AssemblyReference.cache
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2\C-dz2\task15\obj\Debug\net6.0\task15.GeneratedMSBuildEditorConfig.editorconfig
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2\C-dz2\task15\obj\Debug\net6.0\task15.AssemblyInfoInputs.cache
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2\C-dz2\task15\obj\Debug\net6.0\task15.AssemblyInfo.cs
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2\C-dz2\task15\obj\Debug\net6.0\task15.csproj.CoreCompileInputs.cache
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2\C-dz2\task15\bin\Debug\net6.0\task15.exe
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2\C-dz2\task15\bin\Debug\net6.0\task15.deps.json
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2\C-dz2\task15\bin\Debug\net6.0\task15.runtimeconfig.json
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2\C-dz2\task15\bin\Debug\net6.0\task15.dll
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2\C-dz2\task15\bin\Debug\net6.0\task15.pdb
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2\C-dz2\task15\obj\Debug\net6.0\task15.dll
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2\C-dz2\task15\obj\Debug\net6.0\refint\task15.dll
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2\C-dz2\task15\obj\Debug\net6.0\task15.pdb
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2\C-dz2\task15\obj\Debug\net6.0\task15.genruntimeconfig.cache
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 2. Базовые алгоритмы\C-dz2\C-dz2\task15\obj\Debug\net6.0\ref\task15.dll
